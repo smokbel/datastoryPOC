@@ -1,7 +1,0 @@
-# Main features
-- [ ] Page scroll event tracker
-- - [ ] at id, get id and find which viz to show
-- - [ ] the y scroll position of each section to be relative to the top
-        of the div screen
-- [ ] D3 charts
-- [ ]
